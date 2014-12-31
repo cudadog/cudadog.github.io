@@ -1,7 +1,7 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Cudadog Designs
+email: webcontact@cudadog.com
+description: "Cudadog Designs - the one-way to FPGA design."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -13,11 +13,12 @@ color:
 footer:
   copyright: Cudadog Designs
   location: Location
-  social: Around the Web
-  credits: Credits
+  # social: Location
+  # credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-# social:
+#social: We are located in Washington, DC but work remotely on most projects from Portland, Oregon to Boston, Massachusetts to Tokyo, Japan.
+#  - line: Washington, DC 20036
 #   - title: twitter
 #     url: http://twitter.com/jekyllrb
 #   - title: facebook
@@ -30,11 +31,15 @@ footer:
 #     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
+#address:
+#  - line: Washington, DC 20036
 address:
+  - line: We are located in Washington, DC but work remotely on most projects from Portland, Oregon to Boston, Massachusetts to Tokyo, Japan.
+  - line: 
   - line: Washington, DC 20036
   
 # Credits content
-credits: 'Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+# credits: 'Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
